@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav S</h1>
+<h1 align="center">Hi 👋, I'm Fuad Ashraf </h1>
 <h3 align="center">✨ Front-End Developer | Vue | React | TypeScript | Tailwind CSS</h3>
 
 <p align="center">
